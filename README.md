@@ -1,4 +1,4 @@
-# Object detection with Transfer Learning
+## Object detection with Transfer Learning
 
 <div align="center">
   <img src="images/bird.png">
